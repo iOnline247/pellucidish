@@ -20,7 +20,7 @@
     "puppeteer": "^2.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.2.0",
+    "@babel/cli": "^7.27.2",
     "@babel/core": "^7.2.2",
     "@babel/node": "^7.2.2",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.4.4",
@@ -34,7 +34,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-prettier": "^3.0.1",
     "esm": "^3.2.22",
-    "lint-staged": "^8.1.0",
+    "lint-staged": "^16.1.2",
     "prettier": "1.14.2"
   },
   "husky": {
